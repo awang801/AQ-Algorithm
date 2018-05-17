@@ -1,0 +1,12 @@
+B 0.1 and B 0.3 and B 1.1 and B 0.3 and B 2.3 and B 2.3 and A 0.8 and A 0.8 and A 0.8 and A 1.2 and A 1.2 and A 2.0   -->   D very-small
+
+B 0.3 and B 1.1 and B 0.3 and B 2.3 and B 2.3 and A 0.8 and A 0.8 and A 0.8 and A 1.2 and A 1.2 and A 2.0   -->   D small
+
+C 10.2 and C 10.2 and C 10.2 and C 10.2 and A 0.8 and A 0.8 and A 0.8 and A 1.2 and A 1.2 and A 2.0   -->   D medium
+
+C 10.2 and C 10.2 and C 10.2 and C 10.2 and A 0.8 and A 0.8 and A 0.8 and A 1.2 and A 1.2 and A 2.0   -->   D medium
+
+C 10.2 and C 10.2 and C 10.2 and C 10.2 and A 0.8 and A 0.8 and A 0.8 and A 1.2 and A 1.2 and A 2.0   -->   D medium
+
+C 10.2 and C 10.2 and C 10.2 and C 10.2 and A 0.8 and A 0.8 and A 0.8 and A 1.2 and A 1.2 and A 2.0   -->   D high
+

@@ -1,0 +1,12 @@
+B not 0.3 and A not 2.0   -->   D very-small
+
+B not 0.1 and A not 2.0   -->   D small
+
+C not 7.2 and A not 2.0   -->   D medium
+
+C not 7.2 and A not 2.0   -->   D medium
+
+C not 7.2 and A not 2.0   -->   D medium
+
+C not 7.2 and A not 1.2   -->   D high
+

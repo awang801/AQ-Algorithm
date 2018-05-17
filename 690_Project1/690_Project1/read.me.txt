@@ -1,0 +1,6 @@
+Alan Wang
+ID: 2443586
+
+The console will display all partial star operations, but only the rules will be printed in the .rul files.
+
+Variables are not discretized.
